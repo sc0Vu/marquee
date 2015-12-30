@@ -1,0 +1,1 @@
+<h2>html5 marquee with <a href="https://w3c.github.io/web-animations/" target="_balnk">webanimation api</a>&nbsp;<a href="http://caniuse.com/#search=animate" target="_blank">caniuse</a><a href="https://jsfiddle.net/PeterLai/waevc3vc/" target="_blank">live example</a></h2>
